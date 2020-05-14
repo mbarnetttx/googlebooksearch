@@ -1,0 +1,25 @@
+{
+  "name": "googlebooksearch",
+  "version": "1.0.0",
+  "description": "A search engine to browse Google Books",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbarnetttx/googlebooksearch.git"
+  },
+  "author": "Meredith Barnett",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/mbarnetttx/googlebooksearch/issues"
+  },
+  "homepage": "https://github.com/mbarnetttx/googlebooksearch#readme"
+}
